@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`printf("I’m interested in learning programming\n");`\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`printf("I’m currently learning software engineering at ALX\n");`\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`printf("I’m looking to collaborate on joint projects nationwide\n");`\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`printf("How to reach me: via LinkedIn ASUBONTENG VINCENT, WhatsApp`https://api.whatsapp.com/send?phone=+233554455212");
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`printf("How to reach me: via LinkedIn ASUBONTENG VINCENT, WhatsApp: https://api.whatsapp.com/send?phone=+233554455212");`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`return (0);`\
 `}`
