@@ -1,6 +1,6 @@
 # Python welcome program
 `def greet():`\
- `   name = input("What's your name? ")`\
+ `&nbsp &nbsp &nbspname = input("What's your name? ")`\
  `   print("Hello,", name, "\nGood day!\nI welcome you to my Github Profile!?")`\
  `   print("Stay Safe and stay blessed.")`\
 `greet()`
