@@ -3,7 +3,7 @@
 # Hi, I’m SirRoll93
 
 `#include <stdio.h>`\
-int main(void)\
+`int main(void)`\
 `{`\
 `  int user = 0;`\
 `  printf("I’m interested in learning programming\n");`\
