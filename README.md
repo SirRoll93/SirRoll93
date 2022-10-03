@@ -1,8 +1,8 @@
 # Python welcome program
 `def greet():`\
- &nbsp &nbsp &nbsp `name = input("What's your name? ")`\
- `   print("Hello,", name, "\nGood day!\nI welcome you to my Github Profile!?")`\
- `   print("Stay Safe and stay blessed.")`\
+&nbsp;&nbsp;&nbsp;&nbsp;`name = input("What's your name? ")`\
+`print("Hello,", name, "\nGood day!\nI welcome you to my Github Profile!?")`\
+`print("Stay Safe and stay blessed.")`\
 `greet()`
 
 ![3D](https://user-images.githubusercontent.com/109989332/193680413-84a06651-ee66-4a84-9d0c-e620728fb861.jpg)
