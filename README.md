@@ -9,7 +9,7 @@
 `  printf("I’m interested in learning programming\n");`\
 `  printf("I’m currently learning software engineering at ALX\n");`\
 `  printf("I’m looking to collaborate on joint projects nationwide\n");`\
-`  printf("How to reach me: via LinkedIn ASUBONTENG VINCENT, WhatsApp +233554455212\n");`\
+`  printf("How to reach me: via LinkedIn ASUBONTENG VINCENT, WhatsApp +233554455212\n");`
 
 `  return (0);`\
 `}`
