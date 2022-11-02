@@ -31,9 +31,8 @@
 
 ![68747470733a2f2f632e74656e6f722e636f6d2f327579454e526d6955743041414141432f636f64696e672e676966](https://user-images.githubusercontent.com/109989332/199601569-04aada65-e536-44c8-ba8d-5f94c67c571b.gif)
 
-![+234 905 209 3567 20220925_134053](https://user-images.githubusercontent.com/109989332/193684126-32e0c829-8f03-43b2-9125-a493a2c36d15.jpg)
+<img src="![+234 905 209 3567 20220925_134053](https://user-images.githubusercontent.com/109989332/193684126-32e0c829-8f03-43b2-9125-a493a2c36d15.jpg)" width="40" height="40"/> </a>
 
-<p align="left"> <a href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"><img src="https://github.com/SirRoll93?tab=achievements" alt="SirRoll93" /></a> </p>
 
 <!---
 This is my personal README repo
